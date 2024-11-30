@@ -5,3 +5,6 @@
 
 #Entrega 2: video
 https://youtu.be/0Q8C3s5OxmE
+
+#Entrega 3: video
+https://youtu.be/iFWyxRPup5Y
